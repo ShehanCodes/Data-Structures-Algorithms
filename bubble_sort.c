@@ -20,7 +20,6 @@ int main ()
 
 void bubbleSort(int array[], int length)
 {
-    // for (int  i = 0; i < length - 1; i++)
     bool swapped = false;
     int numOfPasses = 0;
     do
