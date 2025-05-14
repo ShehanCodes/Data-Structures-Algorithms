@@ -37,7 +37,7 @@ int main(void)
 
         newNode->next = list;
         list = newNode;
-        // Add new node to head of linked list
+       
 
     }
 
